@@ -66,5 +66,4 @@ def main():
             f_log.writelines(log_data)
 
 if __name__ == "__main__":
-    #main()
-    print(get_local_ip())
+    main()
